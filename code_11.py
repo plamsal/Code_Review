@@ -20,3 +20,5 @@ def quad(a, b, c):
         return str("This equation has two solutions: ", x1, " and", x2)
 
 print(quad(2,3,4))
+
+#try try until you die

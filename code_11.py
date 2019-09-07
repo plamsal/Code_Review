@@ -21,4 +21,4 @@ def quad(a, b, c):
 
 print(quad(2,3,4))
 
-#try try until you die
+#Never ever give up
